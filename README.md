@@ -86,9 +86,9 @@ Resumo da organização:
   - lib/features/auth/model/user_model.dart
   - lib/features/auth/data/user_repository.dart
 
-ESPAÇO PARA PRINT (arquitetura de pastas no VS Code):
+Arquitetura de pastas no VS Code:
 
-[PRINT DA TELA]
+<img width="306" height="754" alt="image" src="https://github.com/user-attachments/assets/b07f3040-c299-479a-860d-9ccfa74b35c5" />
 
 ---
 
@@ -104,11 +104,9 @@ ESPAÇO PARA PRINT (arquitetura de pastas no VS Code):
   - lib/features/auth/view/splash_page.dart
   - lib/features/auth/viewmodel/splash_viewmodel.dart
 
-ESPAÇO PARA PRINT (splash exibida):
+Splash:
 
-[PRINT DA TELA]
-
----
+<img width="300" alt="Screenshot_1775147883" src="https://github.com/user-attachments/assets/31335619-2f68-4418-abf5-ee119bd63f65" />
 
 ### 6.3 Tela de Login
 
@@ -126,13 +124,15 @@ ESPAÇO PARA PRINT (splash exibida):
   - lib/features/auth/viewmodel/login_viewmodel.dart
   - lib/features/auth/data/user_repository.dart
 
-ESPAÇO PARA PRINT (tela de login):
+Tela de login:
 
-[PRINT DA TELA]
+<img width="300" alt="Screenshot_1775147886" src="https://github.com/user-attachments/assets/4842b50e-8333-4e50-bdd0-6568a2a23f43" />
 
-ESPAÇO PARA PRINT (validação/erro de login inválido):
 
-[PRINT DA TELA]
+Validação/erro de login inválido:
+
+<img width="300" alt="Screenshot_1775148037" src="https://github.com/user-attachments/assets/fe201f38-f572-4255-9a02-8639d12e038e" />
+
 
 ---
 
@@ -149,13 +149,14 @@ ESPAÇO PARA PRINT (validação/erro de login inválido):
   - lib/features/auth/viewmodel/register_viewmodel.dart
   - lib/features/auth/data/user_mock_store.dart
 
-ESPAÇO PARA PRINT (tela de cadastro):
+Tela de cadastro:
 
-[PRINT DA TELA]
+<img width="300" alt="Screenshot_1775147889" src="https://github.com/user-attachments/assets/e3b921d4-4f1e-439b-a858-f6c34ea1d826" />
 
-ESPAÇO PARA PRINT (cadastro realizado com sucesso):
 
-[PRINT DA TELA]
+Cadastro realizado com sucesso:
+
+<img width="300" alt="Screenshot_1775147921" src="https://github.com/user-attachments/assets/bae9c724-5eff-478a-b296-95cd95a5d57e" />
 
 ---
 
@@ -168,9 +169,10 @@ ESPAÇO PARA PRINT (cadastro realizado com sucesso):
 - Arquivo de referência:
   - lib/features/auth/model/user_model.dart
 
-ESPAÇO PARA PRINT (código do model):
+Código do model:
 
-[PRINT DA TELA]
+<img width="547" height="829" alt="image" src="https://github.com/user-attachments/assets/0e680178-d082-4fd3-8002-c1f6feb94adf" />
+
 
 ---
 
@@ -184,9 +186,10 @@ ESPAÇO PARA PRINT (código do model):
 - Arquivo de referência:
   - lib/features/auth/data/user_mock_store.dart
 
-ESPAÇO PARA PRINT (lista mockada de usuários):
+Lista mockada de usuários:
 
-[PRINT DA TELA]
+<img width="588" height="425" alt="image" src="https://github.com/user-attachments/assets/522ca22b-177a-4f6f-b22c-7f261ce2caba" />
+
 
 ---
 
@@ -201,9 +204,18 @@ ESPAÇO PARA PRINT (lista mockada de usuários):
   - lib/features/auth/data/user_mock_store.dart
   - lib/features/auth/data/user_repository.dart
 
-ESPAÇO PARA PRINT (store/repositório compartilhado):
+Store/repositório compartilhado:
 
-[PRINT DA TELA]
+<img width="580" height="36" alt="image" src="https://github.com/user-attachments/assets/6a502410-758a-44df-b75d-f1502456cad6" />
+
+<img width="520" height="341" alt="image" src="https://github.com/user-attachments/assets/bff281bb-3287-4fd4-b9c7-e7ebefdcebd0" />
+
+<img width="695" height="396" alt="image" src="https://github.com/user-attachments/assets/ca7819d5-9d30-4cf5-a329-b2a5387fa875" />
+
+<img width="791" height="91" alt="image" src="https://github.com/user-attachments/assets/099b4efd-a14a-4d73-9513-d678e2489d5a" />
+
+<img width="379" height="93" alt="image" src="https://github.com/user-attachments/assets/14861651-b37c-476b-9c4f-9b12a64ac19f" />
+
 
 ---
 
@@ -217,9 +229,9 @@ ESPAÇO PARA PRINT (store/repositório compartilhado):
 - Arquivo de referência:
   - lib/features/home/view/home_page.dart
 
-ESPAÇO PARA PRINT (home após login):
+Home após login:
 
-[PRINT DA TELA]
+<img width="300" alt="Screenshot_1775147904" src="https://github.com/user-attachments/assets/c83efc12-a963-4229-9099-b40df1f1dba6" />
 
 ## 7) Requisitos técnicos esperados
 
@@ -230,9 +242,10 @@ ESPAÇO PARA PRINT (home após login):
   - Stateless: HomePage
   - Stateful: SplashPage, LoginPage, RegisterPage
 
-ESPAÇO PARA PRINT:
+<img width="541" height="92" alt="image" src="https://github.com/user-attachments/assets/4ce1081b-8333-4e13-a9d2-009f35618268" />
 
-[PRINT DA TELA]
+<img width="541" height="92" alt="image" src="https://github.com/user-attachments/assets/775dcaa2-8e67-4985-bb64-0d875edde479" />
+
 
 ### 7.2 Navegação por rotas
 
@@ -241,9 +254,9 @@ ESPAÇO PARA PRINT:
   - Rotas nomeadas em AppRoutes.
   - Geração de páginas via AppPages.
 
-ESPAÇO PARA PRINT:
+<img width="503" height="200" alt="image" src="https://github.com/user-attachments/assets/85282581-d6a6-4568-9444-e88026613f69" />
 
-[PRINT DA TELA]
+<img width="612" height="200" alt="image" src="https://github.com/user-attachments/assets/584b752f-0220-4953-a170-28fc7bcd5776" />
 
 ### 7.3 Formulários com TextFormField
 
@@ -253,7 +266,7 @@ ESPAÇO PARA PRINT:
 
 ESPAÇO PARA PRINT:
 
-[PRINT DA TELA]
+<img width="788" height="440" alt="image" src="https://github.com/user-attachments/assets/47a3d4c6-c790-4e58-a616-2a39eda4dcd1" />
 
 ### 7.4 Validação de formulário
 
@@ -261,9 +274,13 @@ ESPAÇO PARA PRINT:
 - Evidências:
   - Validações de e-mail, senha, nome e confirmação de senha.
 
-ESPAÇO PARA PRINT:
+<img width="300" alt="Screenshot_1775149986" src="https://github.com/user-attachments/assets/6f2d98f0-cb75-4b4a-b976-1e05208d44fa" />
 
-[PRINT DA TELA]
+<img width="300" alt="Screenshot_1775149978" src="https://github.com/user-attachments/assets/c39a4b16-db4d-4ee3-9cdf-7dd26f4d28e3" />
+
+<img width="300" alt="Screenshot_1775149966" src="https://github.com/user-attachments/assets/b1ab7026-b773-4d76-9207-bd330334a21e" />
+
+<img width="300" alt="Screenshot_1775149954" src="https://github.com/user-attachments/assets/ce2727cd-e7a7-4846-99ad-967becda8603" />
 
 ### 7.5 Separação de responsabilidades
 
@@ -272,9 +289,8 @@ ESPAÇO PARA PRINT:
   - Interface separada da lógica de negócio (ViewModel).
   - Persistência simulada isolada em camada data.
 
-ESPAÇO PARA PRINT:
+<img width="269" height="298" alt="image" src="https://github.com/user-attachments/assets/ad67fe9b-8d2a-4984-9790-09ddbb3565e4" />
 
-[PRINT DA TELA]
 
 ### 7.6 Uso de Model
 
@@ -282,9 +298,7 @@ ESPAÇO PARA PRINT:
 - Evidências:
   - UserModel usado no cadastro, autenticação e store.
 
-ESPAÇO PARA PRINT:
-
-[PRINT DA TELA]
+<img width="547" height="829" alt="image" src="https://github.com/user-attachments/assets/0e680178-d082-4fd3-8002-c1f6feb94adf" />
 
 ### 7.7 Uso de List ou Map
 
@@ -292,9 +306,8 @@ ESPAÇO PARA PRINT:
 - Evidências:
   - Uso de List<UserModel> no armazenamento em memória.
 
-ESPAÇO PARA PRINT:
+<img width="682" height="293" alt="image" src="https://github.com/user-attachments/assets/28d68ce0-4152-4e84-a5c7-ca023254c091" />
 
-[PRINT DA TELA]
 
 ### 7.8 Organização do projeto em pastas
 
@@ -302,9 +315,7 @@ ESPAÇO PARA PRINT:
 - Evidências:
   - Estrutura por features e camadas.
 
-ESPAÇO PARA PRINT:
-
-[PRINT DA TELA]
+<img width="300" alt="Screenshot_1775147883" src="https://github.com/user-attachments/assets/31335619-2f68-4418-abf5-ee119bd63f65" />
 
 ### 7.9 Lógica de autenticação simulada
 
@@ -313,9 +324,15 @@ ESPAÇO PARA PRINT:
   - Login compara credenciais com lista mockada.
   - Sessão simulada salva no store.
 
-ESPAÇO PARA PRINT:
+<img width="580" height="36" alt="image" src="https://github.com/user-attachments/assets/6a502410-758a-44df-b75d-f1502456cad6" />
 
-[PRINT DA TELA]
+<img width="520" height="341" alt="image" src="https://github.com/user-attachments/assets/bff281bb-3287-4fd4-b9c7-e7ebefdcebd0" />
+
+<img width="695" height="396" alt="image" src="https://github.com/user-attachments/assets/ca7819d5-9d30-4cf5-a329-b2a5387fa875" />
+
+<img width="791" height="91" alt="image" src="https://github.com/user-attachments/assets/099b4efd-a14a-4d73-9513-d678e2489d5a" />
+
+<img width="379" height="93" alt="image" src="https://github.com/user-attachments/assets/14861651-b37c-476b-9c4f-9b12a64ac19f" />
 
 ## 8) Regras da atividade (confirmação)
 
@@ -324,10 +341,6 @@ ESPAÇO PARA PRINT:
 - [x] Sem API externa
 - [x] Foco em arquitetura, lógica, navegação, formulários e dados em memória
 - [X] Todos os integrantes participaram do desenvolvimento
-
-ESPAÇO PARA PRINT (execução funcionando):
-
-[PRINT DA TELA]
 
 ## 9) Entrega e demonstração prática
 
@@ -346,9 +359,7 @@ ESPAÇO PARA PRINT (execução funcionando):
 - [x] Autenticação correta
 - [x] Navegação para home
 
-ESPAÇO PARA PRINT (fluxo completo em sequência):
-
-[PRINT DA TELA]
+https://github.com/user-attachments/assets/a1ed310a-f6c1-4298-9238-9671a3b5cfee
 
 ## 10) Diferenciais adicionais/opcionais
 
@@ -357,36 +368,28 @@ ESPAÇO PARA PRINT (fluxo completo em sequência):
 - Status: [x] Implementado
 - Evidência: SnackBar quando credenciais são inválidas.
 
-ESPAÇO PARA PRINT:
-
-[PRINT DA TELA]
+<img width="300" alt="Screenshot_1775148037" src="https://github.com/user-attachments/assets/5a2efe50-d859-45d7-b6d7-afadef7b930a" />
 
 ### 10.2 Mensagem de sucesso ao cadastrar
 
 - Status: [x] Implementado
 - Evidência: retorno de mensagem após cadastro e exibição no login.
 
-ESPAÇO PARA PRINT:
-
-[PRINT DA TELA]
+<img width="300" alt="Screenshot_1775147921" src="https://github.com/user-attachments/assets/2a86da01-54fe-4e21-b16d-feec5c334eed" />
 
 ### 10.3 Melhoria visual na Home
 
 - Status: [x] Implementado
 - Evidência: layout centralizado com card, ícone, textos e ação de sair.
 
-ESPAÇO PARA PRINT:
-
-[PRINT DA TELA]
+<img width="300" alt="Screenshot_1775147904" src="https://github.com/user-attachments/assets/8b512ac5-01a1-455d-9c36-a42f8466e8a3" />
 
 ### 10.4 Uso organizado de singleton/store mockada
 
 - Status: [x] Implementado
 - Evidência: UserMockStore com instância singleton e repositório dedicado.
 
-ESPAÇO PARA PRINT:
-
-[PRINT DA TELA]
+<img width="588" height="425" alt="image" src="https://github.com/user-attachments/assets/522ca22b-177a-4f6f-b22c-7f261ce2caba" />
 
 ## 12) Credenciais para teste rápido
 
